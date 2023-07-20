@@ -1,0 +1,11 @@
+Elemen Pemformatan HTML
+Elemen pemformatan dirancang untuk menampilkan jenis teks khusus:
+
+<b>, <strong> untuk bold / tebal
+<i>, <em> untuk italic / miring
+<mark>- Teks yang ditandai
+<small> untuk text kecil
+<del>- Teks yang dicoret
+<ins> untuk text dengan garis bawah
+<sub>- Teks subskrip
+<sup>- Teks superskrip

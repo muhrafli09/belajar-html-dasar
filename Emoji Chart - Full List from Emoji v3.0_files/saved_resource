@@ -1,0 +1,49 @@
+
+var ftGUID_5734124="5525B82C829A9F";
+var ftConfID_5734124="0";
+var ftParams_5734124="ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fhtml%2Fr20230614%2Fr20110914%2Fzrt_lookup.html%3Ffsb%3D1%23RS-1-%26adk%3D1812271801%26client%3Dca-pub-6331358926293806%26fa%3D1%26ifi%3D7%26uci%3Da!7%26btvi%3D2%26xpc%3D8chwNSmDir%26p%3Dhttps%253A%2F%2Fwww.quackit.com&us_privacy=${US_PRIVACY}&cachebuster=230075.4444826023&ft_dv=%5B%25ft_dv%25%5D";
+var ftKeyword_5734124="";
+var ftCustom_5734124="";
+var ftSection_5734124="";
+var ftSegment_5734124="";
+var ftSegmentList_5734124=[];
+var ftRuleMatch_5734124="0";
+var ftTimestamp_5734124="1687060580";
+var ftGeoC2_5734124="id";
+var ftGeoState_5734124="jb";
+var ftGeoCity_5734124="curug";
+var ftISP_5734124="pt. link net tbk";
+var ftSpeed_5734124="broadband";
+var ftConnType_5734124="wifi";
+var ftDMA_5734124="360078";
+var ftLong_5734124="106.73";
+var ftLat_5734124="-6.4";
+var ftPostal_5734124="16525";
+var ftTimeZone_5734124="+700";
+var ftMobileCarrier_5734124="";
+var ftImp5734124 = {};
+ftImp5734124.privacy = "x";
+ftImp5734124.guidAge = "122";
+ftImp5734124.impID = "F94683F4-1128-D1B6-9F57-58B0F5358302";
+ftImp5734124.duid = "FT:5525B82C829A9F";
+
+ftImp5734124.ft_tpplid = "";
+ftImp5734124.ft_c = {};
+ftImp5734124.gdpr = "";
+ftImp5734124.gdpr_consent = "";
+ftImp5734124.gdpr_pd = "";
+ftImp5734124.oob_consent = "";
+ftImp5734124.gdprStoredConsent = "";
+ftImp5734124.us_privacy = "!!US_PRIVACY!";
+
+ftImp5734124.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_5734124') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/573/5734124/4198851/js/j-5734124-4198851.js";
+    js.id = "ftscript_m5734124";
+    tag.parentNode.insertBefore(js, tag);
+}());
